@@ -1,4 +1,4 @@
-# Convert-schema-Joi-to-typescript
+# Convert-joi-schema-to-typescript
 Convert joi schemas to typescript by typing properties.
 
 
