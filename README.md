@@ -14,6 +14,8 @@ Now you just need to put your schemas in the schemas folder and run the command
 
 if everything went well in the interfaces folder, you have the final result
 
+thanks to [`joi-to-typescript`](https://github.com/mrjono1/joi-to-typescript) library
+
 ---
 
 # Converte-schema-Joi-para-typescript
@@ -30,3 +32,5 @@ Agora precisa somente colocar seus schemas na pasta schemas e executar o comando
 `yarn convert` ou `npm run convert`
 
 se tudo ocorreu bem na pasta interfaces tem o resultado final
+
+agradecimentos a biblioteca [`joi-to-typescript`](https://github.com/mrjono1/joi-to-typescript)
